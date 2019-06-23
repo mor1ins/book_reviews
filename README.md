@@ -7,5 +7,10 @@
 
 # Каталог
 
-- TDD for Embedded C [_Eng_](TDD_For_Embedded_C/)
-- Современный и Эффективный C++ [_Rus_](effective_modern_cpp/)
+- [_TDD for Embedded C_](TDD_For_Embedded_C/)
+- [_Современный и Эффективный C++_](effective_modern_cpp/), Скотт Майерс
+- _Происхождение видов_, Дарвин
+- _Начала филосифии_, Декарт
+- _Статья_, Тьюринга
+- _КЭД_, Р. Фейнманн
+-
