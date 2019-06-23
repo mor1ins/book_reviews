@@ -7,4 +7,5 @@
 
 # Каталог
 
-[TDD for Embedded C](TDD_For_Embedded_C/)
+- TDD for Embedded C [_Eng_](TDD_For_Embedded_C/)
+- Современный и Эффективный C++ [_Rus_](effective_modern_cpp/)
